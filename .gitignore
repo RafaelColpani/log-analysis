@@ -1,0 +1,63 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Arq build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment settings
+.env
+.env.*
+
+
+# IDE
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# SO
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# .temp
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# raw or large data
+data_raw/
+data_raw/*
+
+# Output files
+output/
+output/*
+
