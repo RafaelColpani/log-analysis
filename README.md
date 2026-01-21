@@ -9,7 +9,7 @@ Analyze Windows Event Log (.log) files to practice and deepen knowledge in cyber
   - Evaluate whether these failures indicate potential unauthorized access or malicious activity.
 
 ## Screenshots
-<img src="/image/FinalOut.png" alt="Alt" width="400"/>
+<img src="/image/FinalOut.jpg" alt="Alt" width="400"/>
 
 ### Installation
 
