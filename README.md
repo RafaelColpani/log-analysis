@@ -1,5 +1,12 @@
-# Log Analysis
+# Objective
 
+Analyze Windows Event Log (.log) files to practice and deepen knowledge in cybersecurity and data analysis.
+
+# Challenge
+
+- Identify all login attempts.
+  - Detect failed logins and determine which accounts were affected.
+  - Evaluate whether these failures indicate potential unauthorized access or malicious activity.
 
 ## Screenshots
 <img src="/image/FinalOut.png" alt="Alt" width="400"/>
