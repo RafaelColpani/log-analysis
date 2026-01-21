@@ -33,3 +33,6 @@ This project uses publicly available Windows event samples: [Windows Event Sampl
 ---
 > [!IMPORTANT]
 > This is a study project aimed at learning in the area of ​​cybersecurity and data analysis.
+
+> [!NOTE]
+> This project uses sample event logs sourced from the public repository "Windows-Event-Samples". All IP addresses and hostnames are internal and not linked to real infrastructure.
